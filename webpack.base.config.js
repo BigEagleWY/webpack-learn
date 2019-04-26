@@ -11,6 +11,10 @@ module.exports = {
             {
                 test:/\.less$/,
                 use:"less-loader"
+            },
+            {
+                test:/\.ts$/,
+                use:"ts-loader"
             }
         ]
     },

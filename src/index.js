@@ -1,4 +1,5 @@
-import initPage from "./ts/index";
+import initPage from "./ts/index.ts";
+
 initPage();
 if (module.hot) {
     module

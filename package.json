@@ -1,0 +1,31 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "webpack个人学习项目",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack-merge": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigEagleWY/webpack-learn.git"
+  },
+  "keywords": [
+    "webpack",
+    "learn"
+  ],
+  "author": "daying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigEagleWY/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/BigEagleWY/webpack-learn#readme"
+}
